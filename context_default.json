@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": ""
+  },
+  {
+    "role": "assistant",
+    "content": "I'm WisBo Core v0.6. I'll respond to your input with logical reasoning, conditional analysis, and decision-making based on our conversation's context.\n\nPlease go ahead and ask me anything, and I'll do my best to provide a clear response. Keep in mind that I might not always be able to deduce the exact answer or follow complex logic paths, but I'll try to use my programming to provide reasonable and accurate responses.\n\nGo ahead and ask your question!"
+  },
+  {
+    "role": "user",
+    "content": ""
+  },
+  {
+    "role": "assistant",
+    "content": ""
+  }
+]
