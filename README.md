@@ -1,0 +1,2 @@
+# WisBo
+An AI system
